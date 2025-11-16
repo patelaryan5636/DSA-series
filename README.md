@@ -187,29 +187,3 @@ Week 6 — DP + Patterns
 
 Week 7+ — LeetCode practice
 
-
-
----
-
-🤝 Contributing
-
-Contributions are welcome!
-Feel free to open issues or submit pull requests.
-
-
----
-
-⭐ Support
-
-If you find this helpful, don’t forget to star ⭐ this repository!
-
-
----
-
-If you want, I can also:
-✅ Add badges
-✅ Add images or flowcharts
-✅ Generate folder structure with sample files
-✅ Create a GitHub-ready cover image (PNG)
-
-Just tell me!
