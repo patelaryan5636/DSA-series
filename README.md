@@ -1,8 +1,3 @@
-Below is a professional, clean, and GitHub-ready README.md for a repository titled something like “DSA Journey with JavaScript”.
-
-
----
-
 📘 DSA Journey with JavaScript
 
 A structured, beginner-friendly & professional guide to mastering Data Structures and Algorithms using JavaScript.
