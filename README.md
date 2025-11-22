@@ -59,7 +59,7 @@ This repository is designed to:
 
 ## 📁 Folder Structure
 
-```text
+
 dsa-with-js/
 ├── 00-intro/                     # Complexity, JS basics for DSA
 │   └── notes.md
